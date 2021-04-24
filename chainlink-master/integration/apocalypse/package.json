@@ -11,6 +11,5 @@
   "dependencies": {
     "@chainlink/test-helpers": "0.0.2",
 
-    "lodash": "^4.17.15"
   }
 }
