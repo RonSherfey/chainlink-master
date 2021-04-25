@@ -18,11 +18,11 @@
     "@0x/sol-trace": "^3.0.7",
     "@0x/subproviders": "^6.1.1",
     "bn.js": "^5.1.3",
-    "cbor": "^7.0.5",
+    "cbor": "^5.0.2",
     "chai": "^4.2.0",
     "chalk": "^4.1.0",
     "debug": "^4.1.1",
-    "ethers": "^5.1.3"
+    "ethers": "^4.0.45"
   },
   "devDependencies": {
     "@types/cbor": "^5.0.1",
@@ -30,11 +30,11 @@
     "@types/debug": "^4.1.5",
     "@types/ganache-core": "^2.7.0",
     "@types/jest": "^26.0.8",
-    "@types/node": "^14.14.41",
+    "@types/node": "^13.9.1",
     "jest": "^26.6.3",
-    "jest-circus": "^26.6.3",
+    "jest-circus": "^25.1.0",
     "rimraf": "^3.0.2",
-    "ts-jest": "^26.5.5",
+    "ts-jest": "^24.1.0",
     "typechain": "^1.0.5",
     "typechain-target-ethers": "^1.0.4",
     "typescript": "^3.7.4"
